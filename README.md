@@ -1,2 +1,0 @@
-# LearnCplusplus
-Học C++
